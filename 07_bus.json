@@ -1,0 +1,8 @@
+[  
+   {  
+      "busStopId":"urn:ngsi-ld:BusStop:busStop:3",
+      "busStopName":"Jose Mª Cossio. 54",
+      "busLineId":"urn:ngsi-ld:BusLine:busLine:2",
+      "busTimeToArrival":"P0DT0H1M12S"
+   }
+]

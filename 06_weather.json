@@ -1,0 +1,14 @@
+[
+    {
+        "temp": 262.65,
+        "pressure": 1024.53,
+        "humidity": 76,
+        "wind_speed": 4.57,
+        "wind_degr": 225,
+        "city": {
+            "name": "Moscow",
+            "country": "RU"
+        },
+        "date_time": 1553841071
+    }
+]

@@ -1,0 +1,23 @@
+[
+   {
+      "imageId": "869378f3bac1877878d0d",
+      "url": "/stations/DEALLEGO@Allego",
+      "id": "DEALLEGO@Allego",
+      "location": [
+            13.37693,
+            52.456396
+      ],
+      "dispenserCount": 2,
+      "freeDispenserCount": 2,
+      "dispenser": [{
+         "id": "DEALLEGO@Allego_1",
+         "state": "free",
+         "plug": {
+            "quickChargeSupport": false,
+            "plugType": "Type2Outlet"
+         },
+      "maxCurrent": 16
+      }],
+      "timestamp": "2017-10-18T07:35:00+02:00"
+   }
+]

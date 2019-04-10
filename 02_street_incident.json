@@ -1,0 +1,20 @@
+[
+   {
+      "reason": "Sperrung wegen Bauarbeiten von VATTENFALL",
+      "consequence": "Umleitung / geänderte Haltestellenbedienung",
+      "affectedBusLine": {
+         "line name": "M82",
+         "section": "Neue Filandastr. > Stindestr."
+      },
+      "timeStart": "2017-07-03T08:00:00+02:00",
+      "timeEnd": "2017-07-03T08:00:00+02:00",
+      "location": {
+         "type": "Point",
+         "coordinates": [
+            13.337825833333332,
+            52.45115333333333
+         ]
+      },
+      "severity": 1
+   }
+]

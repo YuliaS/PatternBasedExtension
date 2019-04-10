@@ -1,0 +1,9 @@
+[
+    {
+        "parkingSpaceId": "urn:ngsi-ld:ParkingSpot:spot:3601",
+        "status": "occupied",
+        "longitude": -3.798970208,
+        "latitude": 43.46305129,
+        "timestamp": "2018-12-20T14:43:50.00Z"
+    }
+]

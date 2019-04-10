@@ -1,0 +1,22 @@
+[
+   {
+      "url": "/bikesharing/stations/5014688@NextBike",
+      "operatorId": "NextBike",
+      "location": {
+         "type": "Point",
+         "coordinates": [
+            13.3696039,
+            52.46865305
+         ]
+      },
+      "freeBikeCount": 1,
+      "reservedBikeCount": 24,
+      "timestamp": "2017-10-18T12:22:00+02:00",
+      "bikes": [
+         {
+            "id": "14286@NextBike",
+            "name": "14286"
+         }
+      ]
+   }
+]
