@@ -1,0 +1,24 @@
+__00__bike.json
+This data sample represents a bike sharing station (its operating organization and location); the number of free and reserved bikes available at a particular timestamp.
+
+
+01_parking.json
+This data sample represents the status (free/occupied) of a parking space at a particular time.
+
+02_street_incident.json
+This data sample contains information about traffic issues caused by a street incident and incident's description: its' cause, location (geometry and the latitude and longitude coordinates), time frame, affected traffic components (bus line and its description), and severity - level of importance of accident (1: LowImpact, 2: Minor, 3: Moderate, 4: Serious).
+
+03_pollution.json
+This data sample represents emission of harmful substances: sulphur dioxide (SO2), nitrogen oxides (NOx), ozone (O3), carbon monoxide (CO), measured in parts per billion, and particulate matter 2.5 micrometers or less in diameter (PM25), measured in micrograms per cubic metre, to the atmosphere.
+
+04_car.json
+This data sample represents on-board diagnostics data of a car recorded at a particular timestamp. Measured parameters include: speed (CAN response message for the PID 'Vehicle Speed' ), RPM (engine revolutions per minute), MAF (mass flow rate of air entering a fuel-injected internal combustion engine, measured in gram per second), intake temperature, intake pressure (air pressure in the intake manifold, measured in kilopascal (kPa) absolute), GPS speed (speed provided by the GPS receiver, measured in kilometres per hour).
+
+05_charging.json
+This data sample represents information about charging stations which contain multiple dispensers (dispenser count), each having a plug. A sensor measures whether a dispenser is free or occupied at a particular timestamp. These readings are aggregated as a 'freeDispenserCount'. A boolean property 'quickChargeSupport' indicates whether or not a plug supports quick charge. The maximum current measured in ampere is provided for a dispenser.
+
+06_weather.json
+This data sample represents weather forecasts for cities for a particular time in the future expressed as Unix epoch. Air temperature is measured in Kelvin, humidity - in %, atmospheric pressure on the sea level - in hPa, wind speed in meter/sec and its direction in degrees).
+
+07_bus.json
+This data sample represents the output of a service, which takes the current location of a user as input and predicts the time, remaining until a bus arrives at the nearest bus stop.
